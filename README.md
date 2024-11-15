@@ -17,7 +17,10 @@
 ## :pencil: Descripción ##
 Este repositorio contiene el proyecto de Spatial con interacciones predefinidas. Eso quiere decir que son interacciones que vienen en Spatial y solo basca con incluir los componentes en tu proyecto. Entre las funcionalidades se encuentran: Sentarse, escalar (subir una escalera de pared), teletransportarse a una zona específica y proyectar pantalla. Además, puedes explorar el metaverso publicado en Spatial a través del siguiente enlace.
 
-Metaverso en Spatial: 
+Metaverso en Spatial: https://www.spatial.io/s/Vivero-Virtual-Interacciones-Predefinidas-6736bf8ac6f66862305dca4f?share=8517358463720857830
+
+<img width="1069" alt="Captura de pantalla 2024-11-14 a la(s) 10 28 20 p m" src="https://github.com/user-attachments/assets/382693b7-d2f5-4c99-88dd-90fff985d8e8">
+
 
 
 
